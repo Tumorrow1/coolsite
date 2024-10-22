@@ -1,0 +1,37 @@
+body{
+    /* background-color: red; */
+    background-image: -moz-radial-gradient(world);
+background-color: aquamarine;
+background-color: red;
+flex-direction: row;
+background-color: blue;
+
+display: block;
+align-items: center;
+justify-content: center;
+padding: auto;
+font-size: medium;
+font: 4em;
+
+}
+
+header{
+    display: flex;
+   flex-direction: row;
+    align-items: center;
+background-color: aliceblue;
+justify-content: center;
+}
+    main{
+       display: flex;
+        flex-direction: column-reverse;
+        background-color: aqua;
+    align-items: center; 
+}
+
+footer{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+align-items: center;
+ }
